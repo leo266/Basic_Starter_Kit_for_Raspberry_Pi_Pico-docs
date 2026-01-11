@@ -44,10 +44,6 @@ In this tutorial, we use USB cable to power Pico and upload sketches.
 Sketch
 ============================
 
-.. raw:: html
-
-    <iframe style="display: block; margin: 0 auto;" height="421.875" width="750" src="https://www.youtube.com/embed/NFH_3oByn0E" frameborder="0" allowfullscreen></iframe>
-
 The onboard LED of Raspberry Pi Pico is controlled by GP25. When GP25 outputs high level, LED lights up; when it outputs low, LED lights off. You can open the provided code:
 
 Robot_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico\\C\\Sketches\\Sketch_01.1_Blink.

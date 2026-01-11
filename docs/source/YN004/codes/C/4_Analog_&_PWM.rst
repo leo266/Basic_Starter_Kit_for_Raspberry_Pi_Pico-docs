@@ -97,10 +97,6 @@ This circuit is the same as the one in project Blink.
 Sketch
 ================================
 
-.. raw:: html
-
-    <iframe style="display: block; margin: 0 auto;" height="421.875" width="750" src="https://www.youtube.com/embed/h7dZR2cJbk4" frameborder="0" allowfullscreen></iframe>
-
 This project is designed to make PWM output GP15 with pulse width increasing from 0% to 100%, and then reducing from 100% to 0% gradually.
 
 Sketch_BreathingLight
@@ -196,10 +192,6 @@ Circuit
 
 Sketch
 =============================
-
-.. raw:: html
-
-    <iframe style="display: block; margin: 0 auto;" height="421.875" width="750" src="https://www.youtube.com/embed/h7dZR2cJbk4" frameborder="0" allowfullscreen></iframe>
 
 Meteor flowing light will be implemented with PWM.
 
